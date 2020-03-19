@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 03:45:27</sys_created_on>
+        <sys_id>076102c3db274010193e43ea139619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_finaldemo_test_table.x_snc_finaldemo.test_table_user</sys_name>
+        <sys_package display_value="FinalDemo" source="x_snc_finaldemo">c0518a83db274010193e43ea1396191d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FinalDemo">c0518a83db274010193e43ea1396191d</sys_scope>
+        <sys_security_acl display_value="x_snc_finaldemo_test_table">876102c3db274010193e43ea139619e8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_076102c3db274010193e43ea139619eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 03:45:27</sys_updated_on>
+        <sys_user_role display_value="x_snc_finaldemo.test_table_user" name="x_snc_finaldemo.test_table_user">fe618e83db274010193e43ea1396192a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
